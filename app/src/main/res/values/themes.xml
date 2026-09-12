@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.MeshTalk" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/blue</item>
+        <item name="colorSecondary">@color/mint</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="android:navigationBarColor">@color/navy</item>
+        <item name="android:statusBarColor">@color/navy</item>
+    </style>
+</resources>
